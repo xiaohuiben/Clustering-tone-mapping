@@ -1,5 +1,5 @@
 # Clustering-tone-mapping
-This is the Matlab code for paper "Clustering based content and color adaptive tone mapping, CVIU,2017"
+This is the Matlab code for paper "Clustering based content and color adaptive tone mapping, CVIU,2018"
 
 Clustering_TM_offlinetraining: It is the code for offline-training, just ignore it if you donot want to try the training process
 
